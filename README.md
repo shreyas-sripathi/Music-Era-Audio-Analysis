@@ -1,7 +1,7 @@
 ## How to Use
 1. Clone this repository
 2. Install dependencies: `pip install pandas numpy scipy matplotlib seaborn`
-3. Run `notebooks/01_eda.ipynb`
+3. Run `notebooks/Analysis.ipynb`
 4. See `ANALYSIS.md` for detailed findings
 
 ## Key Insight
